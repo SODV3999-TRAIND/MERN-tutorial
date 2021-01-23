@@ -1,0 +1,22 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SODV3999-TRAIND/MERN-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SODV3999-TRAIND/MERN-tutorial/issues"
+  },
+  "homepage": "https://github.com/SODV3999-TRAIND/MERN-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
